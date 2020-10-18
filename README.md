@@ -1,16 +1,15 @@
-### Hi there 👋
+## オプティム社エンジニア / N高等学校OB / 2002年沖縄県生まれ
+### 技術レイヤ
+- インフラ (AWS)
+- サーバサイド
+- フロントエンド
 
-<!--
-**uehr/uehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 主な開発言語
+- JavaScript (Node.js, React.js)
+- Ruby (Rails)
+- Java (Spring)
+- Go
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 連絡先
+- [@uehr37](https://twitter.com/uehr37)
+- uehara.yudai@gmail.com
