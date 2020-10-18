@@ -9,7 +9,3 @@
 - Ruby (Rails)
 - Java (Spring)
 - Go
-
-### 連絡先
-- [@uehr37](https://twitter.com/uehr37)
-- uehara.yudai@gmail.com
