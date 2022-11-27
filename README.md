@@ -5,7 +5,7 @@
 - フロントエンド
 
 ### 主な開発言語
+- Go
 - JavaScript (Node.js, React.js)
 - Ruby (Rails)
 - Java (Spring)
-- Go
